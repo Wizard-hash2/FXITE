@@ -1,0 +1,102 @@
+#Header
+{
+    align-content: center;
+    
+    color: wheat;
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: 860px;
+    height: 200px;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 100px;
+    z-index: 1;
+  right: -10px;
+}
+#clock
+{
+    align-items: baseline;
+    
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: 400px;
+    height:fit-content;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -10px;
+    z-index: 1;
+
+}
+#books
+{
+    align-items: baseline;
+    
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: 400px;
+    height:fit-content;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -10px;
+    z-index: 1;
+
+}
+#Pics
+{
+    align-items: center;
+    align-self: right;
+    
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: 400px;
+    height: 100px;
+    z-index: 1;
+    
+    position: absolute;
+    margin-top: 90px;
+    
+   margin-left: 900px;
+    
+
+}
+#bgVida{
+
+
+    
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+    margin-top: -220px;
+    margin-left: 00px;
+    
+      
+      
+}
+#Thoughts
+{
+    align-items: baseline;
+    
+    color: white;
+    text-align: center;
+    border: 10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(17, 17, 53);
+    width: 600px;
+    height:200px;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 380px;
+  
+}
